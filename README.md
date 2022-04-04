@@ -1,2 +1,2 @@
 # static-node-server
-Simple node app to serve static content
+Base docker images containing a simple node app for serving static content
